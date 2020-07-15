@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'brandon_grotesqueregular';
-    src: url('FONTS/hvd_fonts_-_brandongrotesque-regular-webfont.woff2') format('woff2'),
-         url('FONTS/hvd_fonts_-_brandongrotesque-regular-webfont.woff') format('woff');
+    src: url('/FONTS/piakamal-webfont.woff2') format('woff2'),
+         url('/FONTS/piakamal-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -35,7 +35,7 @@
 
 .text3 {
     font-family: 'brandon_grotesqueregular';
-    color: #7e7979;
+    color: #b4adad;
     display: flex;
     font-weight: bold;
     justify-content: center;
