@@ -10,14 +10,14 @@
 
 
 .text1 {
-    padding-top: 12%;
+    padding-top: 6%;
     font-family: 'brandon_grotesqueregular';
     color: #3c3a3a;
     display: flex;
     justify-content: center;
     align-items: center;
     letter-spacing: 2px;
-    font-size: 25px;
+    font-size: 40px;
     
 }
 .text2 {
@@ -60,6 +60,7 @@ body {
 @media screen and (max-width:480px){
 	.text1 {
         padding-top: 25%;
+        font-size: 25px;
         
     }
     .text2 {
